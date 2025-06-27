@@ -13,7 +13,7 @@ const int mod = 998244353;
 const int inf = 1e9;
 
 void solve() {
-	int n;
+    int n;
     cin >> n;
 
     vector<PII> p0, p1;
@@ -43,7 +43,7 @@ signed main(){
 	int t=1;
 	//cin >> t;
 	while(t--) {
-		solve();
+	    solve();
 	}
 	return 0;
 }
