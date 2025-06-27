@@ -15,7 +15,6 @@ const int inf = 1e9;
 void solve() {
     int n;
     cin >> n;
-
     vector<PII> p0, p1;
     for (int i = 1; i <= n; i ++) {
         int c, v;
